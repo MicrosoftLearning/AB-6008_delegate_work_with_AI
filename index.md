@@ -10,7 +10,7 @@ Change the title above AND IN THE _config.yml FILE (so that the page header in t
 When you're ready for the labs to be live - make the repo public and enable GitHub Pages publishing from the main branch (in the repo Settings | Pages).
 -->
 
-This page lists exercises associated with Microsoft skilling content on [Microsoft Learn](https://learn.microsoft.com)
+This page lists the **instructor-led exercises** associated with Microsoft skilling content on [Microsoft Learn](https://learn.microsoft.com). For the self-paced version of these exercises, see the [Self-paced exercises]({{ site.github.url }}/self-paced.html) page.
 
 <!-- You can edit the paragraph above to provide a more specific description and links to content on Learn.
 
@@ -20,6 +20,8 @@ Include the following note if an Azure subscription is required (or add somethin
 
 If a more complex setup is required, create a separate markdown file with setup instructions at \Instructions\Labs\00-setup.md - being sure to include "lab.title"" metadata at the top so it shows up the list below
 -->
+
+**Exercise tracks:** [**Instructor-led**]({{ site.github.url }}/index.html) \| [Self-paced]({{ site.github.url }}/self-paced.html)
 
 <hr>
 

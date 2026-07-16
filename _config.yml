@@ -4,6 +4,7 @@ exclude:
   - .github/
 header_pages:
   - index.html
+  - self-paced.html
 author: Microsoft Learning
 twitter_username: mslearning
 github_username:  MicrosoftLearning
