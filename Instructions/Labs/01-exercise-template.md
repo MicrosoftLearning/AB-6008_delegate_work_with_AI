@@ -95,7 +95,8 @@ First, you need to ...
       Draft my weekly update for my manager. Reconstruct what I did this week from my sent email, completed tasks, the meetings I led, and my Teams threads. Structure it as Accomplished / Questions & where I need help / Looking ahead — and ground “Looking ahead” in my actual upcoming calendar and open tasks. Match my writing voice. Leave it as a draft for me to review — don’t send it.
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
 1. **Outcome:** Cowork should produce the following:
-       a. Three sections are present and that each “Accomplished” item ties back to a real artifact, thread, or meeting.
+
+    - Three sections are present and that each “Accomplished” item ties back to a real artifact, thread, or meeting.
        
 ### Task 2.1: Put It on a Schedule
 
