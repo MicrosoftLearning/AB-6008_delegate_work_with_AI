@@ -49,28 +49,28 @@ First, you need to ...
 1. In the chat box, select **+** > **Add work context** .
 1. Select the **Files** tab. 
 1. Select **Portfolio Status (current, post-decision).xlsx**.
-1. In the chat box, select **+** > **Add work context** .
+1. In the chat box, select the **+** button > **Add work context** .
 1. Select the **Files** tab. 
 1. Select **Summit Evidence Pack (outline).docx**.
-1. In the chat box, select **+** > **Add work context**
+1. In the chat box, select the **+** button > **Add work context**
 1. Select the **Files** tab. 
 1. Select **Beacon GA Hold - Decision Memo.docx**.
-1. In the chat box, select **+** > **Add work context**
+1. In the chat box, select the **+** button > **Add work context**
 1. Select the **Emails** tab.
 1. Select **Your weekly PIM digest for Contoso (ID: 19df7e7f-0b0b-4925-bd5e=b38d28fd8eb0)**.
-1. In the chat box, select **+** > **Add work context**
+1. In the chat box, select the **+** button > **Add work context**
 1. Select the **Emails** tab.
 1. Select **Passkeys by default and retirement of Microsoft-provided SMS and voice authentication**.
-1. In the chat box, select **+** > **Add work context**
+1. In the chat box, select the **+** button > **Add work context**
 1. Select the **Emails** tab.
 1. Select **Microsoft Entra ID Protection Weekly Digest**.
-1. In the chat box, select **+** > **Add work context**
+1. In the chat box, select the **+** button > **Add work context**
 1. Select the **Chats** tab.
 1. Select **Nestor, Patti**.
-1. In the chat box, select **+** > **Add work context**
+1. In the chat box, select the **+** button > **Add work context**
 1. Select the **Chats** tab.
 1. Select **Allan, Diego, Isaiah**.
-1. In the chat box, select **+** > **Add work context**
+1. In the chat box, select the **+** button > **Add work context**
 1. Select the **Chats** tab.
 1. Select **Alex, Allan, Diego**.
 1. In the prompt field, copy and paste the following prompt:
@@ -119,7 +119,7 @@ First, you need to ...
 1. Navigate to https://copilot.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
-1. In the chat box, select **+** > **Add work context** .
+1. In the chat box, select the **+** button > **Add work context** .
 1. Select the **Meetings** tab. 
 1. Select **Weekly Project Sync**.
 1. In the prompt field, copy and paste the following prompt:
