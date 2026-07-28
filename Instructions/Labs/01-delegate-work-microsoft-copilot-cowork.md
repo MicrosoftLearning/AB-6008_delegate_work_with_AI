@@ -243,6 +243,10 @@ Now that you've finished the exercise, you should sign out of all accounts and c
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
 1. In the **Manage schedules**  hover over **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete** > Select **Delete** again
+1. Navigate to https://copilot.microsoft.com and login as Alex Wilbur with the credentials provided. 
+1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
+1. Navigate to **Scheduled** in the left hand navigation menu.
+1. In the **Manage schedules**  hover over **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete** > Select **Delete** again
 Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
 
 END OF LAB.
