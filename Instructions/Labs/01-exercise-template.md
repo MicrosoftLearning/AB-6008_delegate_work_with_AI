@@ -14,7 +14,7 @@ You can delete the module and edit index.md in the root of the repo to customize
 To enable GitHub page publishing, edit the Page settings for the repo and publish from the main branch
 -->
 
-# Exercise title <Delegate work with Microsoft Copilot Cowork>
+# Delegate work with Microsoft Copilot Cowork
 
 In this exercise you will run end-to-end testing of all eight Microsoft Copilot Cowork scenarios — from prompt to confirmed result.
 
