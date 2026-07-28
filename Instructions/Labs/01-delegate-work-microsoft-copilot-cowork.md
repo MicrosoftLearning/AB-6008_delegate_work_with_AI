@@ -247,7 +247,7 @@ Now that you've finished the exercise, you should sign out of all accounts and c
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
 1. In the **Manage schedules**  hover over **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete** > Select **Delete** again
-Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
+1. Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
 
 END OF LAB.
 
