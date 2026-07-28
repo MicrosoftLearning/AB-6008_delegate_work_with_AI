@@ -35,9 +35,18 @@ If there are complex setup steps that apply to ALL of the exercises in the repo 
 
 Before you can start this exercise, you will need to...
 
-1. Login to https://admin.microsoft.com as the Admin with the credentials provided.
-1. Navigate to **Copilot** > **Overview**.
-1. etc.
+1. Login to https://admin.microsoft.com as the MOD Admin with the credentials provided.
+1. Navigate to **Agents** > **Overview**
+1. In the **Get early access to Agent 365 Frontier** banner, select **Join the Frontier program**.
+1. Select **All users** > **Save**.
+1. Navigate to **Copilot** > **Cost management**.
+1. Select **Get Started**.
+1. In the pop-up window **Activate the default spending policy for your organization** mark the checkbox next to **Use Capacity Packs**.
+1. Under **Set the monthly spending limit for this policy**, ensure **Don't limit monthly spending** is selected.
+1. Turn on **Select the monthly spending limit for users (optional)** if it is not already on.
+1. In the field **Limit the number of credits that each user can spend per month. Maximum credit limit users can spend per month** put in **5,000**.
+1. Select **Activate**.
+1. Close out of the pop-up window. 
 
 ## Task 1:  Run a Read-Only Briefing
 
