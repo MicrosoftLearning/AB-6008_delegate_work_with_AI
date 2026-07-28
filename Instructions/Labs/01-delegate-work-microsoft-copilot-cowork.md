@@ -103,9 +103,8 @@ First, you need to ...
 1. In the same conversation, paste the following prompt in the chat box:
        Run this every Friday at 3 PM and drop the draft for my review — never auto-send.
 1. When prompted under **Which timezone should the Friday 3PM run use?**, select **Pacific (American/Los_Angeles)** > **Submit**.
-1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
-1. **Outcome:** Cowork should produce a prompt that begins with something like**Create recurring task?** followed by information regarding the weekly manager draft.
-1. Select **Cancel**, as we will not be scheduling tasks in this live tenant. 
+1. Select **Schedule**.
+1. **Outcome:** Cowork should produce a response like "Done! Every Friday at 3 PM Pacific, I'll rebuild your weekly update from that week's sent mail, meetings you led, and Teams threads — structured as Accomplished / Questions & where I need help / Looking ahead, in your voice — and leave it as a draft to Patti for your review. It will never auto-send; you always get the final say before it goes out". 
 
 ## Task 3: Triage your Inbox
 
@@ -119,7 +118,15 @@ First, you need to ...
    
     -  A response with your inbox sorted into three buckets.
       
-    -  Held reply drafts exist for “Waiting on me” items — no sends. 
+    -  Held reply drafts exist for “Waiting on me” items — no sends.
+
+### Task 3.1: Run it Every Weekday
+
+1. In the same conversation, paste the following prompt in the chat box:
+      Run this every weekday at 8 AM. 
+1. When prompted under **Which timezone should the 8 AM weekday triage run in??**, select **Pacific(PT) (American/Los_Angeles)** > **Submit**.
+1. Select **Schedule**.
+1. **Outcome:** Cowork should produce a response like "Done! I'll triage your inbox every weekday (Mon–Fri) at 8 AM Pacific". 
 
 ## Task 4: Create a Meeting-to-Momentum Loop
 
@@ -193,6 +200,16 @@ First, you need to ...
       
     - The deck and PDF are consistent with the Excel analysis.
 
+### Task 7.1 (Optional): Create a Monthly Read-Out
+
+1. In the same conversation, paste the following prompt in the chat box:
+      Turn this into a monthly read-out on a schedule.  
+1. When prompted under **When should the monthly Atlast read-out?**, select any option such as  **1st busines day, 8AM** > **Submit**.
+1. When prompted under **Which timezone should the monthly 8 AM run use?**, select any option such as  **US Eastern** > **Submit**.
+1. Select **Schedule**.
+1. **Outcome:** Cowork should produce a response like "Done — the monthly Atlas Launch read-out is scheduled.". 
+
+
 ## Task 8: Build-Your-Own Skill Challenges
 
 1. Navigate to https://copilot.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
@@ -215,7 +232,18 @@ First, you need to ...
 
 ## Clean up
 
-Now that you've finished the exercise, you should sign out of all accounts and close out ofall browsers.
+1. Navigate to https://copilot.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
+1. Navigate to **Scheduled** in the left hand navigation menu.
+1. In the **Manage schedules**  hover over **Weekly update draft for Patti** > select the **...** button > Select **Delete** > Select **Delete** again
+Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
+1.  In the **Manage schedules**  hover over **Weekly inbox triage** > select the **...** button > Select **Delete** > Select **Delete** again
+Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
+1. Navigate to https://copilot.microsoft.com and login as Joni Sherman with the credentials provided. 
+1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
+1. Navigate to **Scheduled** in the left hand navigation menu.
+1. In the **Manage schedules**  hover over **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete** > Select **Delete** again
+Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
 
 END OF LAB.
 
