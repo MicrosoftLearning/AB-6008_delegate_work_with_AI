@@ -77,9 +77,11 @@ First, you need to ...
    Give me a read-only briefing of where things stand right now. Look at my selected emails, Teams chats, my calendar for the next three days, and my open tasks. Don’t send or change anything — just tell me what needs my attention, what I might have missed, and what’s coming up. Group it as “Needs a decision,” “FYI,” and “Upcoming.
 1.  Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
 1. **Outcome:** Cowork should produce the following:
-a. One chat briefing, organized into “Needs a decision,” “FYI,” and “Upcoming.”
-b. Content is drawn from the attached emails and Teams chat, as well as your calendar, and tasks.
-c. Nothing was sent or changed — no files produced. 
+
+- One chat briefing, organized into “Needs a decision,” “FYI,” and “Upcoming.”
+- Content is drawn from the attached emails and Teams chat, as well as your calendar, and tasks.
+- Nothing was sent or changed — no files produced.
+
 
 
 ## Task 2: Reconstruct Your Week
