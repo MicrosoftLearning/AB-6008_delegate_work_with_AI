@@ -54,7 +54,7 @@ Before you can start this exercise, you will need to...
 
 First, you need to ...
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Select **+ New Task**. 
 1. In the chat box, select **+** > **Add work context**.
@@ -99,7 +99,7 @@ First, you need to ...
 
 ## Task 2: Reconstruct Your Week
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**. 
 1. In the prompt field, copy and paste the following prompt:
@@ -119,7 +119,7 @@ First, you need to ...
 
 ## Task 3: Triage your Inbox
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -141,7 +141,7 @@ First, you need to ...
 
 ## Task 4: Create a Meeting-to-Momentum Loop
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the chat box, select the **+** button > **Add work context** .
@@ -169,7 +169,7 @@ First, you need to ...
 
 ## Task 5: Get updated information from within your organization
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -185,7 +185,7 @@ First, you need to ...
 
 ## Task 6: Create a Project Dashboard
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -199,7 +199,7 @@ First, you need to ...
 
  ## Task 7: Create a Project Status Update on a Specific Topic
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -215,15 +215,15 @@ First, you need to ...
 
 1. In the same conversation, paste the following prompt in the chat box:
       Turn this into a monthly read-out on a schedule.  
-1. When prompted under **When should the monthly Atlast read-out?**, select any option such as  **1st busines day, 8AM** > **Submit**.
-1. When prompted under **Which timezone should the monthly 8 AM run use?**, select any option such as  **US Eastern** > **Submit**.
+1. When prompted under **When should the monthly Atlast read-out?**, select any option such as  **1st business day, 8AM** > **Submit**.
+1. When prompted under **Which time zone should the monthly 8 AM run use?**, select any option such as  **US Eastern** > **Submit**.
 1. Select **Schedule**.
 1. **Outcome:** Cowork should produce a response like "Done — the monthly Atlas Launch read-out is scheduled.". 
 
 
 ## Task 8: Build-Your-Own Skill Challenges
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
