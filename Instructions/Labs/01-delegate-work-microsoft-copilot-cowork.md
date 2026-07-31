@@ -52,7 +52,7 @@ Before you can start this exercise, you will need to...
 
 First, you need to ...
 
-1. Navigate to https://copilot.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Select **+ New Task**. 
 1. In the chat box, select **+** > **Add work context**.
@@ -97,7 +97,7 @@ First, you need to ...
 
 ## Task 2: Reconstruct Your Week
 
-1. Navigate to https://copilot.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**. 
 1. In the prompt field, copy and paste the following prompt:
@@ -117,7 +117,7 @@ First, you need to ...
 
 ## Task 3: Triage your Inbox
 
-1. Navigate to https://copilot.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -139,7 +139,7 @@ First, you need to ...
 
 ## Task 4: Create a Meeting-to-Momentum Loop
 
-1. Navigate to https://copilot.microsoft.com and login as **Joni Sherman** with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the chat box, select the **+** button > **Add work context** .
@@ -167,7 +167,7 @@ First, you need to ...
 
 ## Task 5: Get updated information from within your organization
 
-1. Navigate to https://copilot.microsoft.com and login as **Joni Sherman** with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -183,7 +183,7 @@ First, you need to ...
 
 ## Task 6: Create a Project Dashboard
 
-1. Navigate to https://copilot.microsoft.com and login as **Joni Sherman** with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -197,7 +197,7 @@ First, you need to ...
 
  ## Task 7: Create a Project Status Update on a Specific Topic
 
-1. Navigate to https://copilot.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -221,7 +221,7 @@ First, you need to ...
 
 ## Task 8: Build-Your-Own Skill Challenges
 
-1. Navigate to https://copilot.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -241,16 +241,16 @@ First, you need to ...
 
 ## Clean up
 
-1. Navigate to https://copilot.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
 1. Under the **Manage schedules**  hover over **Weekly update draft for Patti** > select the **...** button > Select **Delete** > Select **Delete** again
 1. Under the **Manage schedules**  hover over **Weekly inbox triage** > select the **...** button > Select **Delete** > Select **Delete** again
-1. Navigate to https://copilot.microsoft.com and login as Joni Sherman with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as Joni Sherman with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
 1. Under the **Manage schedules**  hover over **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete** > Select **Delete** again
-1. Navigate to https://copilot.microsoft.com and login as Alex Wilbur with the credentials provided. 
+1. Navigate to https://copilot.cloud.microsoft.com and login as Alex Wilbur with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
 1. Under the **Manage schedules**  hover over **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete** > Select **Delete** again
