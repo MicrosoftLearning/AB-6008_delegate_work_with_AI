@@ -36,6 +36,7 @@ If there are complex setup steps that apply to ALL of the exercises in the repo 
 Before you can start this exercise, you will need to...
 
 1. Login to https://admin.microsoft.com as the MOD Admin with the credentials provided.
+   > **Note**: In the pop-up window that says, "You need to set up multifactor authentication," select **Skip for now**.
 1. Navigate to **Agents** > **Overview**
 1. In the **Get early access to Agent 365 Frontier** banner, select **Join the Frontier program**.
 1. Select **All users** > **Save**.
