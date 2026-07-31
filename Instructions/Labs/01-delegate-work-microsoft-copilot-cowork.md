@@ -260,7 +260,7 @@ First, you need to ...
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
 1. Under the **Manage schedules**  hover over **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete** > Select **Delete** again.
-   > **Note**: This may be in Megan Bowman's account if performed Task 4 and Task 4.1 as Megan Bowen. If that is the case, delete this scheduled task in Megan Bowen's account, by following the same steps but login as Megan Bowen.
+   > **Note**: This may be in Megan Bowman's account if you performed Task 4 and Task 4.1 as Megan Bowen. If that is the case, delete this scheduled task in Megan Bowen's account, by following the same steps but logged in as Megan Bowen.
 1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Alex Wilbur with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
