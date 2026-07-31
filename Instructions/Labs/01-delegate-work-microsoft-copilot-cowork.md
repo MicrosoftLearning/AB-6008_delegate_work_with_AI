@@ -40,7 +40,8 @@ Before you can start this exercise, you will need to...
 1. Navigate to **Agents** > **Overview**
 1. In the **Get early access to Agent 365 Frontier** banner, select **Join the Frontier program**.
 1. Select **All users** > **Save**.
-1. Navigate to **Copilot** > **Cost management**.
+1. Select the **x** to close out the fly-out window.
+1. Navigate to **Copilot** > **Cost management** on the left-hand side of the navigation menu.
 1. Select **Get Started**.
 1. In the pop-up window **Activate the default spending policy for your organization** mark the checkbox next to **Use Capacity Packs**.
 1. Under **Set the monthly spending limit for this policy**, ensure **Don't limit monthly spending** is selected.
