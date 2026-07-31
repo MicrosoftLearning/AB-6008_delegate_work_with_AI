@@ -68,7 +68,7 @@ First, you need to ...
 1. Select **Beacon GA Hold - Decision Memo.docx**.
 1. In the chat box, select the **+** button > **Add work context**.
 1. Select the **Emails** tab.
-1. Select **Your weekly PIM digest for Contoso (ID: 19df7e7f-0b0b-4925-bd5e=b38d28fd8eb0)**.
+1. Select **Your weekly PIM digest for Contoso (ID: d9d00af5-1ecb-468f-b6e1-f8cc726eb19)**.
 1. In the chat box, select the **+** button > **Add work context**.
 1. Select the **Emails** tab.
 1. Select **Passkeys by default and retirement of Microsoft-provided SMS and voice authentication**.
@@ -113,9 +113,11 @@ First, you need to ...
 
 1. In the same conversation, paste the following prompt in the chat box:
        Run this every Friday at 3 PM and drop the draft for my review — never auto-send.
-1. When prompted under **Which timezone should the Friday 3PM run use?**, select **Pacific (American/Los_Angeles)** > **Submit**.
+1. When prompted under **Which time zone should the Friday 3PM run use?**, select **Pacific (American/Los_Angeles)** > **Submit**.
+   > **Note**: Cowork may not respond with this step. If not, proceed to the next step.
 1. Select **Schedule**.
-1. **Outcome:** Cowork should produce a response like "Done! Every Friday at 3 PM Pacific, I'll rebuild your weekly update from that week's sent mail, meetings you led, and Teams threads — structured as Accomplished / Questions & where I need help / Looking ahead, in your voice — and leave it as a draft to Patti for your review. It will never auto-send; you always get the final say before it goes out". 
+1. **Outcome:** Cowork should produce a response like "Done! Every Friday at 3 PM Pacific, I'll rebuild your weekly update from that week's sent mail, meetings you led, and Teams threads — structured as Accomplished / Questions & where I need help / Looking ahead, in your voice — and leave it as a draft to Patti for your review. It will never auto-send; you always get the final say before it goes out".
+   > **Note**: Cowork may respond with a different variation of the above response. This is expected.
 
 ## Task 3: Triage your Inbox
 
@@ -127,7 +129,7 @@ First, you need to ...
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
 1. **Outcome:** Cowork should produce the following:
    
-    -  A response with your inbox sorted into three buckets.
+    -  A response with your inbox sorted into different buckets.
       
     -  Held reply drafts exist for “Waiting on me” items — no sends.
 
@@ -136,8 +138,10 @@ First, you need to ...
 1. In the same conversation, paste the following prompt in the chat box:
       Run this every weekday at 8 AM. 
 1. When prompted under **Which timezone should the 8 AM weekday triage run in??**, select **Pacific(PT) (American/Los_Angeles)** > **Submit**.
+   > **Note**: Cowork may not respond with this step. If not, proceed to the next step.
 1. Select **Schedule**.
-1. **Outcome:** Cowork should produce a response like "Done! I'll triage your inbox every weekday (Mon–Fri) at 8 AM Pacific". 
+1. **Outcome:** Cowork should produce a response like "Done! I'll triage your inbox every weekday (Mon–Fri) at 8 AM Pacific".
+   > **Note**: Cowork may respond with a different variation of the above response. This is expected. 
 
 ## Task 4: Create a Meeting-to-Momentum Loop
 
@@ -147,6 +151,7 @@ First, you need to ...
 1. In the chat box, select the **+** button > **Add work context** .
 1. Select the **Meetings** tab. 
 1. Select **Weekly Project Sync**.
+   > **Note**: If you do not see a Weekly Project Sync, perform all of this task with Megan Bowen, starting from step 1 of this task. 
 1. In the prompt field, copy and paste the following prompt:
    For this weekly project sync series, pull the recaps and open action items from the recent instances, keep a running decision log, and draft the agenda for the next meeting from the unfinished items and prior decisions. Save the log and the agenda to my files.
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
@@ -165,7 +170,9 @@ First, you need to ...
 1. In the **New routine** response prompt, ensure the **When** field is set to **I receive an email**.
 1. Select **Activate routine**.
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
-1. **Outcome:** Cowork should respond with something similar to "the auto-refresh is set up and running". 
+    > **Note**: Cowork may not respond with prompts as notes in steps 2 - 5 of this Task. If this is the case, select **Schedule**.
+1. **Outcome:** Cowork should respond with something similar to "the auto-refresh is set up and running".
+    > **Note**: Cowork may respond with a different variation of the above response. This is expected. 
 
 ## Task 5: Get updated information from within your organization
 
@@ -217,9 +224,10 @@ First, you need to ...
       Turn this into a monthly read-out on a schedule.  
 1. When prompted under **When should the monthly Atlast read-out?**, select any option such as  **1st business day, 8AM** > **Submit**.
 1. When prompted under **Which time zone should the monthly 8 AM run use?**, select any option such as  **US Eastern** > **Submit**.
+   > **Note**: Cowork may not respond with prompts as notes in steps 2 - 3 of this Task. If this is the case, proceed to the next step.
 1. Select **Schedule**.
 1. **Outcome:** Cowork should produce a response like "Done — the monthly Atlas Launch read-out is scheduled.". 
-
+    > **Note**: Cowork may respond with a different variation of the above response. This is expected. 
 
 ## Task 8: Build-Your-Own Skill Challenges
 
@@ -243,16 +251,17 @@ First, you need to ...
 
 ## Clean up
 
-1. Navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
-1. Under the **Manage schedules**  hover over **Weekly update draft for Patti** > select the **...** button > Select **Delete** > Select **Delete** again
+1. Under the **Manage schedules**  hover over **Weekly manager update -- draft only** > select the **...** button > Select **Delete** > Select **Delete** again
 1. Under the **Manage schedules**  hover over **Weekly inbox triage** > select the **...** button > Select **Delete** > Select **Delete** again
-1. Navigate to https://copilot.cloud.microsoft.com and login as Joni Sherman with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Joni Sherman with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
-1. Under the **Manage schedules**  hover over **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete** > Select **Delete** again
-1. Navigate to https://copilot.cloud.microsoft.com and login as Alex Wilbur with the credentials provided. 
+1. Under the **Manage schedules**  hover over **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete** > Select **Delete** again.
+   > **Note**: This may be in Megan Bowman's account if performed Task 4 and Task 4.1 as Megan Bowen. If that is the case, delete this scheduled task in Megan Bowen's account, by following the same steps but login as Megan Bowen.
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Alex Wilbur with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **Scheduled** in the left hand navigation menu.
 1. Under the **Manage schedules**  hover over **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete** > Select **Delete** again
