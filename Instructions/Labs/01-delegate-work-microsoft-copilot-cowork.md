@@ -253,18 +253,18 @@ First, you need to ...
 
 1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
-1. Navigate to **Scheduled** in the left hand navigation menu.
-1. Under the **Manage schedules**  hover over **Weekly manager update -- draft only** > select the **...** button > Select **Delete** > Select **Delete** again
-1. Under the **Manage schedules**  hover over **Weekly inbox triage** > select the **...** button > Select **Delete** > Select **Delete** again
+1. Navigate to **My Tasks** in the left hand navigation menu.
+1. Next to **Weekly manager update -- draft only** > select the **...** button > Select **Delete task** > Select **Delete task** again
+1. Next to **Weekly inbox triage** > select the **...** button > Select **Delete task** > Select **Delete task** again
 1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Joni Sherman with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
-1. Navigate to **Scheduled** in the left hand navigation menu.
-1. Under the **Manage schedules**  hover over **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete** > Select **Delete** again.
+1. Navigate to **My Tasks** in the left hand navigation menu.
+1. Next to **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete task** > Select **Delete task** again.
    > **Note**: This may be in Megan Bowman's account if you performed Task 4 and Task 4.1 as Megan Bowen. If that is the case, delete this scheduled task in Megan Bowen's account, by following the same steps but logged in as Megan Bowen.
 1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Alex Wilbur with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
-1. Navigate to **Scheduled** in the left hand navigation menu.
-1. Under the **Manage schedules**  hover over **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete** > Select **Delete** again
+1. Navigate to **My Tasks** in the left hand navigation menu.
+1. Next to **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete task** > Select **Delete task** again
 1. Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
 
 END OF LAB.
