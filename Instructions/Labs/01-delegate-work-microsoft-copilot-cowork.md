@@ -148,31 +148,14 @@ First, you need to ...
 1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
-1. In the chat box, select the **+** button > **Add work context** .
-1. Select the **Meetings** tab. 
-1. Select **Weekly Project Sync**.
-   > **Note**: If you do not see a Weekly Project Sync, perform all of this task with Megan Bowen, starting from step 1 of this task. 
-1. In the prompt field, copy and paste the following prompt:
-   For this weekly project sync series, pull the recaps and open action items from the recent instances, keep a running decision log, and draft the agenda for the next meeting from the unfinished items and prior decisions. Save the log and the agenda to my files.
+1. In the chat box, type in the following prompt:
+   For the Summit Evidence, pull the recaps and open action items from the recent instances, keep a running decision log, and draft the agenda for the next meeting from the unfinished items and prior decisions. Save the log and the agenda to my files.
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
 1. **Outcome:** Cowork should produce the following:
 
     - A decision-log doc (or a running log) and a next-agenda doc are saved to files.
    
     - The agenda reflects unfinished items and prior decisions.
-
-   
-### Task 4.1: Refresh After Each Meeting
-
-1. In the same conversation, send a new prompt to automate the refresh:
-   Refresh the decision log and the next agenda automatically after each meeting instance.
-1. If prompted **What should trigger the automatic refresh of the decision log and next agenda?**, select **Megan's recap email**, then select **Submit**.
-1. In the **New routine** response prompt, ensure the **When** field is set to **I receive an email**.
-1. Select **Activate routine**.
-1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
-    > **Note**: Cowork may not respond with prompts as notes in steps 2 - 5 of this Task. If this is the case, select **Schedule**.
-1. **Outcome:** Cowork should respond with something similar to "the auto-refresh is set up and running".
-    > **Note**: Cowork may respond with a different variation of the above response. This is expected. 
 
 ## Task 5: Get updated information from within your organization
 
@@ -254,17 +237,12 @@ First, you need to ...
 1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **My Tasks** in the left hand navigation menu.
-1. Next to **Weekly manager update -- draft only** > select the **...** button > Select **Delete task** > Select **Delete task** again
-1. Next to **Weekly inbox triage** > select the **...** button > Select **Delete task** > Select **Delete task** again
-1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Joni Sherman with the credentials provided. 
-1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
-1. Navigate to **My Tasks** in the left hand navigation menu.
-1. Next to **Weekly Project Sync - auto-refresh log & agenda** > select the **...** button > Select **Delete task** > Select **Delete task** again.
-   > **Note**: This may be in Megan Bowman's account if you performed Task 4 and Task 4.1 as Megan Bowen. If that is the case, delete this scheduled task in Megan Bowen's account, by following the same steps but logged in as Megan Bowen.
+1. Next to **Weekly manager update -- draft only** > select the **...** button > Select **Delete task** > Select **Delete task** again.
+1. Next to **Weekly inbox triage** > select the **...** button > Select **Delete task** > Select **Delete task** again.
 1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Alex Wilbur with the credentials provided. 
 1. Select the **Cowork** tab at the top left of the navigation menu to switch to Cowork.
 1. Navigate to **My Tasks** in the left hand navigation menu.
-1. Next to **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete task** > Select **Delete task** again
+1. Next to **Monthly Atlas Launch read-out** > select the **...** button > Select **Delete task** > Select **Delete task** again.
 1. Now that you've finished the exercise, you should sign out of all accounts and close out of all browsers.
 
 END OF LAB.
