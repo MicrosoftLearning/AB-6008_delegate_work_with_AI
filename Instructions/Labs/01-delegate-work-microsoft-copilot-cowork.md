@@ -85,7 +85,7 @@ First, you need to ...
 1. Select the **Chats** tab.
 1. Select **Alex, Allan, Diego**.
 1. In the prompt field, copy and paste the following prompt:
-   Give me a read-only briefing of where things stand right now. Look at my selected emails, Teams chats, my calendar for the next three days, and my open tasks. Don’t send or change anything — just tell me what needs my attention, what I might have missed, and what’s coming up. Group it as “Needs a decision,” “FYI,” and “Upcoming".
+   Give me a read-only briefing of where things stand right now. Look at my selected emails, Teams chats, and my open tasks. Don’t send or change anything — just tell me what needs my attention, what I might have missed, and what’s coming up. Group it as “Needs a decision,” “FYI,” and “Upcoming".
 1.  Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
 1. **Outcome:** Cowork should produce the following:
    
@@ -99,9 +99,7 @@ First, you need to ...
 
 ## Task 2: Reconstruct Your Week
 
-1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
-1. Select the **Cowork** tab at the top left of the navigation menu.
-1. Select **+ New Task**. 
+1. Still as Megan Bower, select **+ New Task** at the left-hand side of the navigation menu. 
 1. In the prompt field, copy and paste the following prompt:
       Draft my weekly update for my manager. Reconstruct what I did this week from my sent email, completed tasks, the meetings I led, and my Teams threads. Structure it as Accomplished / Questions & where I need help / Looking ahead — and ground “Looking ahead” in my actual upcoming calendar and open tasks. Match my writing voice. Leave it as a draft for me to review — don’t send it.
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
@@ -121,9 +119,7 @@ First, you need to ...
 
 ## Task 3: Triage your Inbox
 
-1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as Megan Bowen with the credentials provided. 
-1. Select the **Cowork** tab at the top left of the navigation menu.
-1. Select **+ New Task**.
+1. Still as Megan Bower, select **+ New Task** at the left-hand side of the navigation menu.
 1. In the prompt field, copy and paste the following prompt:
       Triage my inbox. Sort everything into “Waiting on me,” “FYI,” and “Can be delegated.” For each “Waiting on me” item, draft a contextual reply but hold it for my approval — don’t send anything. Create follow-up tasks for anything that needs tracking.
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
@@ -145,7 +141,8 @@ First, you need to ...
 
 ## Task 4: Create a Meeting-to-Momentum Loop
 
-1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided.
+   > **Note**: If you are still logged in as Megan Bowen, ensure you logout as Megan before opening a new InPrivate window and logging in as Joni Sherman. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the chat box, type in the following prompt:
@@ -156,12 +153,11 @@ First, you need to ...
     - A decision-log doc (or a running log) and a next-agenda doc are saved to files.
    
     - The agenda reflects unfinished items and prior decisions.
+> **Note**: You may get a response from Cowork notifying you that there is no Teams transcript or recording regarding the five Summit evidence meetings. This is expected behavior.  
 
 ## Task 5: Get updated information from within your organization
 
-1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
-1. Select the **Cowork** tab at the top left of the navigation menu.
-1. Select **+ New Task**.
+1. Still as Joni Sherman, select **+ New Task** at the left-hand side of the navigation menu.
 1. In the prompt field, copy and paste the following prompt:
    I’ve been out for two weeks. Catch me up: what decisions were made, which threads moved, and what tasks came due while I was away. Build me a prioritized re-entry plan for my first day back, and draft catch-up replies for the threads that need me — hold them for my review.
 1. Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
@@ -171,13 +167,12 @@ First, you need to ...
       
     - A prioritized re-entry plan for the first day back.
   
-    - Catch-up reply drafts held for review — no sends. 
+    - Catch-up reply drafts held for review — no sends.
+   > **Note**: You may get a response from Cowork notifying you that no information was found after as specific date, like August 4th. This is expected behavior.  
 
 ## Task 6: Create a Project Dashboard
 
-1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Joni Sherman** with the credentials provided. 
-1. Select the **Cowork** tab at the top left of the navigation menu.
-1. Select **+ New Task**.
+1. Still as Joni Sherman, select **+ New Task** at the left-hand side of the navigation menu.
 1. In the prompt field, copy and paste the following prompt:
   Build me a project status dashboard across my active projects. For each one, pull the status from the relevant threads, files, and task lists, and lay it out as a table: Project / Status (Red-Amber-Green) / Blockers / Next milestone / Owner. Save it to my files.
 1.  Send the prompt by selecting the white circle with the black up-arrow in the bottom-right corner.
@@ -189,7 +184,8 @@ First, you need to ...
 
  ## Task 7: Create a Project Status Update on a Specific Topic
 
-1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided. 
+1. In a new InPrivate window navigate to https://copilot.cloud.microsoft.com and login as **Alex Wilbur** with the credentials provided.
+    > **Note**: If you are still logged in as Joni Sherman, ensure you logout as Joni before opening a new InPrivate window and logging in as Alex Wilbur. 
 1. Select the **Cowork** tab at the top left of the navigation menu.
 1. Select **+ New Task**.
 1. In the prompt field, copy and paste the following prompt:
@@ -205,7 +201,7 @@ First, you need to ...
 
 1. In the same conversation, paste the following prompt in the chat box:
       Turn this into a monthly read-out on a schedule.  
-1. When prompted under **When should the monthly Atlast read-out?**, select any option such as  **1st business day, 8AM** > **Submit**.
+1. When prompted under **When should the monthly Atlas read-out?**, select any option such as  **1st business day, 8AM** > **Submit**.
 1. When prompted under **Which time zone should the monthly 8 AM run use?**, select any option such as  **US Eastern** > **Submit**.
    > **Note**: Cowork may not respond with prompts as notes in steps 2 - 3 of this Task. If this is the case, proceed to the next step.
 1. Select **Schedule**.
